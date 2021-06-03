@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties late commission of array for the county of Middlesex more especially for the cities of London and Westminster. Published to the world for the satisfaction of all good people against the falshood of the rebels, who impudently call this commission a horrid plot, and horrible treason.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78845</idno><idno type="EEBO-CITATION">99896933</idno>
+  <idno type="VID">135641</idno>
+  <idno type="EEBO-PROQUEST">2240925956</idno>
+  
+            <idno type="STC">Wing C2382</idno>
+            <idno type="STC">ESTC R223883</idno>
+            <idno type="PROQUEST">99896933</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896933e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78845)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135641)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2456:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties late commission of array for the county of Middlesex more especially for the cities of London and Westminster. Published to the world for the satisfaction of all good people against the falshood of the rebels, who impudently call this commission a horrid plot, and horrible treason.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Henry Hall],</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>Printed in the yeare M. DC. XLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and printer's name from Madan.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Commissions of array --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135641:1"/>
+            <p>HIS MAIESTIES LATE COMMISSION OF ARRAY For the County of Middlesex; more especially for the Cities of LONDON and WESTMINSTER.</p>
+            <p>Published to the world for the satisfacti<g ref="char:EOLhyphen"/>on of all good people against the falshood of the Rebels, who impudently call this Commission a <hi>horrid Plot,</hi> and <hi>hor<g ref="char:EOLhyphen"/>rible Treason.</hi>
+            </p>
+            <p>
+               <hi>Printed in the Yeare</hi> M.DC.XLIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135641:2"/>
+            <pb n="1" facs="tcp:135641:2"/>
+            <head>His Majesties late Commission of <hi>Array</hi> for the County of <hi>Middlesex;</hi> more especially for the Cities of <hi>London</hi> and <hi>Westminster.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">C</seg>HARLES By the Grace of God, &amp;c. To Our Trusty and Welbeloved <hi>A. B.</hi> &amp;c. and to all such other per<g ref="char:EOLhyphen"/>son and persons, as according to the true intent and purpose of these pre<g ref="char:EOLhyphen"/>sents, shall be nominated and appointed to be Ge<g ref="char:EOLhyphen"/>nerall, Colonels, Lieutenant Colonels, Sergeants Majors, and other Officers of Our Councell of Warre, Greeting.</salute>
+            </opener>
+            <p>Whereas in Our Citie of <hi>London</hi> and <hi>Westminster,</hi> and Suburbs thereof, our Burrough of <hi>South warke,</hi> and County of <hi>Middlesex,</hi> there are raised and con<g ref="char:EOLhyphen"/>tinued great numbers of Military Forces, both Horse and Foot, who under the command of <hi>Robert</hi> Earle of <hi>Essex</hi> as their Generall, and under the conduct of divers others, pretending to derive their Authority from the two Houses of Parliament, have trayte<g ref="char:EOLhyphen"/>rously
+<pb n="2" facs="tcp:135641:3"/>levied Warre and rebelled against Vs their naturall Leige Lord; and many of Our Subjects have beene seduced by false informations, by the practice of a few, who have been the Contrivers of these mischievous plots, and have joyned with them, either in person, or by aiding them with Men, Money, Horses, or other things, and many of Our good and loyall Subjects over-awed by the power of the Rebels, have beene inforced to contribute to them for the maintenance of this unnaturall Warre, and others refusing have beene plundered and rob<g ref="char:EOLhyphen"/>bed of their estates, and some committed to severall Prisons, and there barbarously used, contrary to the liberty of free-borne men, the Lawes of the Land, and contrary to all humanity; of all which injuries and calamities falling upon Our good Subjects We are very sensible, and are desirous to give reliefe to Our good Subjects by all the best meanes we can, and to resist the violence and insolency of these Re<g ref="char:EOLhyphen"/>bels and their adherents; We having no other end therein, but to preserve the true Protestant Religion in the purity and integrity thereof, to maintaine the Lawes of the Land, and the liberty of their persons, and property of the estates of Our Subjects, and the just Priviledges of Parliament. We have thought it fit for Our better service to settle a Councell of War in or about Our said Citie of <hi>London,</hi> which may
+<pb n="3" facs="tcp:135641:3"/>take these things into their sad considerations, which may conduce best to this end, and to have such Commanders and Officers settled in the place a<g ref="char:EOLhyphen"/>fore-said, which may both raise, governe, and lead such Forces as may be raised there. Know yee therefore, that We reposing speciall trust and confi<g ref="char:EOLhyphen"/>dence in your fidelities, industries, and good discre<g ref="char:EOLhyphen"/>tions, have made choice of, nominated and appoin<g ref="char:EOLhyphen"/>ted you to be Our Councell of Warre for the said Citie of <hi>London</hi> and <hi>VVestminster,</hi> and Suburbs there<g ref="char:EOLhyphen"/>of, Our said County of <hi>Middlesex,</hi> and Burrough of <hi>Southwarke;</hi> and doe hereby give and grant Power and Authority to you, or any foure of you, to make choice of such other able and discreet persons as you shall thinke fit, and nominate under the hands and Seales of the greater number of you, which with your selves shall make up in all the number of 21. and no more: and We doe give and grant unto you, or any foure of you, Power and Authority, at such times and such places as you shall thinke con<g ref="char:EOLhyphen"/>venient, to assemble and meet together, and there to consult, advise, and resolve of all such things, and of such wayes and meanes, as you, or any foure of you shall thinke fittest, for the raising of Forces, both Horse and Foot, either of the Inhabitants of the said Cities, County, and Burrough, or of any the adja<g ref="char:EOLhyphen"/>cent
+<pb n="4" facs="tcp:135641:4"/>Counties or other place, who will voluntarily associate themselves to that purpose; and those For<g ref="char:EOLhyphen"/>ces to arme, muster, conduct, order, leade, and go<g ref="char:EOLhyphen"/>vern in the places afore-said, or in any other County adjacent, of elsewhere, in such manner as yee by your selves, or by such other able and fit persons as you or any foure of you shall to that purpose ap<g ref="char:EOLhyphen"/>point, according to these presents. And the better to effect this Our service, We doe further give and grant unto you, or any foure of you, Power and Authority under your hands and Seales, to make choyce of, and appoint such a fit person as you shall thinke meet, to be Captaine Generall of all those Forces thus to be raised, and such other persons as you or any foure of you shall in like manner make choice of, and appoint to be Colonels, Lieutenant Colonels, and Sergeant Majors over those Forces in such manner, and in such places as yee shall so ap<g ref="char:EOLhyphen"/>point; who by vertue thereof, and by vertue of these presents, shall have Power and Authority to doe, execute, and performe all those things, which to these severall Offices and Imployments according to the Law Marshall doe belong. And We doe fur<g ref="char:EOLhyphen"/>ther promise and grant, that with all convenient speed after we shall have notice from you, or any foure of you, under your hands or Seales, of your
+<pb n="5" facs="tcp:135641:4"/>nomination of any persons to those severall places, We shall grant and confirme unto them and every of them respectively those severall places to which you have so nominated them as afore-said, under Our Great Seale of <hi>England,</hi> or otherwise as shall be reasonably advised and required of Vs. And Wee do further by these presents give and grant unto you full Power and Authority by all such good wayes and meanes as you or any foure of you shall under your hands agree upon, to raise money for the clo<g ref="char:EOLhyphen"/>thing, arming, furnishing, and paying of all such Souldiers, as shall be thus raised, and for the provi<g ref="char:EOLhyphen"/>ding of all Ammunition and other necessaries for the Warre; all which money upon a just account We do for Vs, Our Heires and Successors, promise, grant, and agree well and truly to repay, so soone as we shall be enabled thereunto: and in the meane time to secure the same to those who for our service, and by your mediation and industry shall lend or disburse the same. And We do further by these pre<g ref="char:EOLhyphen"/>sents grant, that such Generall, Colonels, Lieutenant Colonels, and other Officers so by you nominated as afore-said, shall have full Power and Authority by virtue of these presents, to leade and order the Soul<g ref="char:EOLhyphen"/>diers severally under their charge, and with them to fight against Our Enemies and Rebels, and them
+<pb n="6" facs="tcp:135641:5"/>to slay and destroy; or them to save according to the Law Martiall, or course of Warre: for the do<g ref="char:EOLhyphen"/>ing of all which this shall be to you and them and every of them a sufficient Warrant. Willing and requiring, &amp;c.</p>
+            <closer/>
+            <postscript>
+               <p>This is a true Copie of the Commission it selfe, which His <hi>Majestie</hi> sent up to <hi>London,</hi> whereby all good peo<g ref="char:EOLhyphen"/>ple may perceive what bottomlesse slanders the Authors of this Rebellion raise to seduce His Majesties Subjects into perjury, by taking this new <hi>Oath</hi> and <hi>Covenant,</hi> which is expresly against the Law of God, and their Oath of Allegiance.</p>
+            </postscript>
+            <epigraph>
+               <q>Feare God, obey the King.</q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
